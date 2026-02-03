@@ -28,9 +28,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+<<<<<<< HEAD
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
+=======
+
+# env files (can opt-in for commiting if needed)
+>>>>>>> 650dffa (Initial commit - ajout du projet)
 .env*
 
 # vercel
